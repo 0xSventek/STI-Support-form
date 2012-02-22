@@ -1,0 +1,5 @@
+Manifest
+README.rdoc
+Rakefile
+lib/sti_support_form.rb
+views/_form.html.erb
